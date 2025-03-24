@@ -1,92 +1,66 @@
-<p align="center">
-  <img style="width:8rem; height:auto" src="https://cdn.dribbble.com/users/1787323/screenshots/10091971/media/d43c019bfeff34be8816481e843ea8c1.png"/>
-</p>
+# Hey! Nice to see you. 😎
 
-<h1 align="center">Hey, I'm Brandon! <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
-<h3 align="center">Passionate Backend Developer | Java, Spring Framework, and Scalable Systems Enthusiast</h3>
+I'm [Your Name], a **Fullstack Developer** from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> **[Your City, Country]**, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> **[Your Current City, Country]**.
 
 ---
 
-### About Me
-
-- 🚀 I’m a dedicated backend developer from India with a deep interest in building scalable, high-performance systems.
-- 🌱 Currently leveling up my **communication skills and collaboration abilities**.
-- 👯 Seeking collaboration on **Spring Framework & Distributed Systems**.
-- 🤝 Looking for mentorship and insights on **Backend Design and System Architecture**.
-- 💬 Ask me about **System Design, Java Ecosystem, and Programming Philosophy**. 😆
-- ⚡ Fun Fact: **Coding isn’t just my profession; it’s my passion.**
+### 💎 What I Do Best:
+- **Frontend Development:** React.js, Next.js, TypeScript, Tailwind CSS
+- **Backend Engineering:** Python (Django, FastAPI, Flask), Node.js
+- **API Mastery:** REST API, GraphQL, WebSockets
+- **Database & Cloud:** PostgreSQL, MongoDB, Firebase, Supabase, AWS, Docker
+- **AI & Automation:** Python scripting, OpenAI, Machine Learning APIs
 
 ---
 
-### 📚 Knowledge Base
-<div align="center">
-  <img style="width:26rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/coders-prog.gif"/>
-</div>
+### 💼 Professional Experience
+
+#### 🚀 Senior Software Engineer | [Your Current Company] (2021–Present)
+- Built scalable full-stack apps with Python & JavaScript.
+- Led API implementations and optimized backend efficiency.
+- Architected cloud solutions with AWS for reliability & scalability.
+- Integrated AI automation with OpenAI for smarter workflows.
+
+#### ⚡ Full-Stack Developer | [Your Previous Company] (2017–2021)
+- Created responsive UIs with React & TypeScript.
+- Developed & optimized REST APIs.
+- Enhanced PostgreSQL performance for efficient data handling.
+- Built real-time features with WebSockets.
+
+#### 🔥 Web Developer | [Company Name] (2014–2017)
+- Built web apps with JavaScript & Node.js.
+- Designed secure auth systems & interactive UI components.
+- Created & maintained backend services with Express.js & MongoDB.
+
+#### 📌 Junior Web Developer | [Company Name] (2012–2014)
+- Built responsive websites with HTML, CSS, JavaScript, PHP & MySQL.
+- Implemented UI enhancements & supported backend development.
+- Worked with APIs, debugging, and performance optimization.
 
 ---
 
-### 💻 Languages & Tools
-
-#### Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-
----
-
-#### Frameworks & Libraries
-<p align="center">
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
-</p>
-
----
-
-#### Databases & Cloud
-<p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+### 📚 Things I Code With:
+<p>
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />
+  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
 </p>
 
 ---
 
-#### Tools & Technologies
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+### 📫 Where to Find Me:
+<p>
+  <a href="https://github.com/YourGitHub" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/YourLinkedIn" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/YourTwitter" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="mailto:youremail@example.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-### 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elanza-48&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="elanza-48" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elanza-48&theme=material-palenight" alt="elanza-48" />
-</div>
+Let's build something amazing! 🚀
 
----
-
-### 📫 Connect with Me
-<p align="center">
-  <a href="https://linkedin.com/in/example" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/example" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="mailto:example@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/></a>
-</p>
-
----
-
-<div align="center">
-  <h3>Let's build something amazing together. 🚀</h3>
-</div>
