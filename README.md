@@ -38,7 +38,7 @@ Building high-performance, scalable applications with Python & JavaScript. Wheth
 
 ## 💼 Professional Experience
 
-### 🚀 Senior Software Engineer (2021–Present)
+### 🚀 Lead Developer (2021–Present)
 - Architected and developed scalable apps with **Python & JavaScript**.
 - Built robust data pipelines with **PostgreSQL & MongoDB**, implementing advanced indexing, partitioning, and backup solutions.
 - Led high-performance API implementations, boosting backend efficiency.
